@@ -1,0 +1,15 @@
+Clone for first  time (Github ID compulsory)
+======
+git clone "Github Path"
+
+Push command
+================
+git add.
+git commit -m "TEST"
+git pull
+git push
+
+
+Pull command
+================
+git pull
